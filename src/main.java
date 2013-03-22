@@ -1,4 +1,4 @@
-class account{
+class account{//°èÁÂ
 	int balance=0;//ÀÜ¾×
 	int acc_num=0;//°èÁÂ¹øÈ£
 	void deposit_money(int amount){//ÀÔ±İ
